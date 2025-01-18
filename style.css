@@ -3,7 +3,6 @@ html {
   scroll-behavior: smooth; /* Enables smooth scrolling */
 }
 body {
-  width: 1024px;
   overflow-x: auto;
   font-family: "IBM Plex Mono", sans-serif;
   background-color: rgb(34, 40, 49);
